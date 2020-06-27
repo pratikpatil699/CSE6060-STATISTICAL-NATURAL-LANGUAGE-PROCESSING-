@@ -1,1 +1,13 @@
 # CSE6060-STATISTICAL-NATURAL-LANGUAGE-PROCESSING-
+<h1>INDEX </h1>
+
+<a href="https://github.com/pratikpatil699/CSE6060-STATISTICAL-NATURAL-LANGUAGE-PROCESSING-/blob/master/COCO%20CORPUS%20MAY%2029%202020.ipynb">1. COCO CORPUS </a> <br>
+<a href="https://github.com/pratikpatil699/CSE6060-STATISTICAL-NATURAL-LANGUAGE-PROCESSING-/blob/master/COSINE%20SIMILARITY%2012%20june%20.ipynb">2. COSINE SIMILARITY </a> <br>
+<a href="https://github.com/pratikpatil699/CSE6060-STATISTICAL-NATURAL-LANGUAGE-PROCESSING-/blob/master/FREQ%20DIST%20NLTK%2022%20MAY%202020.ipynb">3. FREQUENCY DISTRIBUTION </a> <br>
+<a href="https://github.com/pratikpatil699/CSE6060-STATISTICAL-NATURAL-LANGUAGE-PROCESSING-/blob/master/TEXT_STEM_TOKENIZE_POS.ipynb">4. TEXT_STEM_TOKENIZE </a> <br>
+<a href="https://github.com/pratikpatil699/CSE6060-STATISTICAL-NATURAL-LANGUAGE-PROCESSING-/blob/master/Group%20task%2019-06-2020%20.ipynb">5. GROUP TASK </a> <br>
+
+<a href="https://github.com/pratikpatil699/CSE6060-STATISTICAL-NATURAL-LANGUAGE-PROCESSING-/blob/master/Chunking_LOR.ipynb">6. CHUNKING LOR'S </a> <br>
+<a href="https://github.com/pratikpatil699/CSE6060-STATISTICAL-NATURAL-LANGUAGE-PROCESSING-/blob/master/NAME%20ENTITY%20RECOGNITION%20.ipynb">7. NAME ENTITY RECOGNITION</a> <br>
+<a href="https://github.com/pratikpatil699/CSE6060-STATISTICAL-NATURAL-LANGUAGE-PROCESSING-/blob/master/SENTIMENT%20ANALYSIS.ipynb">8. SENTIMENT ANALYSIS </a> <br>
+<a href="https://github.com/pratikpatil699/CSE6060-STATISTICAL-NATURAL-LANGUAGE-PROCESSING-/blob/master/MARATHI_INLTK%20(1).ipynb">9. REGIONAL LANGUAGE TASK </a> <br>
